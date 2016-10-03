@@ -1,0 +1,16 @@
+pwd
+mkdir
+cd
+vi
+cat
+:wq!
+:q!
+ls
+ls-a
+cp
+cp ./folder1/test1.txt  /folder2/test2.txt
+rm
+rmdir
+mv
+mv -i   for confirmation in case of duplicate files
+mv -b for backup before moving the file.
